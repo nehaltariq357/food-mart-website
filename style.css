@@ -125,7 +125,10 @@ input::placeholder{
 .grid-item2 img{
     width: 85%;
 }
-
+.btn{
+    border: #ccc;
+    border-radius: 10px;
+}
 
 /* **************************************** */
 
@@ -140,6 +143,7 @@ input::placeholder{
    display: flex;
    justify-content: space-between;
    list-style: none;
+   padding: 0;
 }
 
 .category ul li button{
